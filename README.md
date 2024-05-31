@@ -2,7 +2,7 @@
 
 Listening to High-Quality Music from Various Singers
 
-### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://a.top4top.io/p_3073pfk9a1.png" alt="Quran_Bot Illustration">
+### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://g.top4top.io/p_3073pvbti1.png" alt="Quran_Bot Illustration">
 
 ## Supports Slash Commands & Prefix
 
