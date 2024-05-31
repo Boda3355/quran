@@ -2,7 +2,7 @@
 
 Listening to High-Quality Music from Various Singers
 
-### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://cdn.discordapp.com/attachments/1212136370496344074/1240706954515710184/LjdtZ10.png?ex=664789e5&is=66463865&hm=fa6c1abf48df4bf6161ac4c89cb327aa302c3facb647739f5a93a0ad6841f40e&" alt="Quran_Bot Illustration">
+### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://a.top4top.io/p_3073pfk9a1.png" alt="Quran_Bot Illustration">
 
 ## Supports Slash Commands & Prefix
 
@@ -51,7 +51,7 @@ To add Quran_Bot to your Discord server and start enjoying your favorite tunes, 
 
 Here's an image that provides an illustration of Quran_Bot in action:
 
-<img style="width: 50%;" src="https://cdn.discordapp.com/attachments/1212136370496344074/1240706954515710184/LjdtZ10.png?ex=664789e5&is=66463865&hm=fa6c1abf48df4bf6161ac4c89cb327aa302c3facb647739f5a93a0ad6841f40e&" alt="Quran_Bot Illustration">
+<img style="width: 50%;" src="https://a.top4top.io/p_3073pfk9a1.png" alt="Quran_Bot Illustration">
 
 ## Conclusion
 
