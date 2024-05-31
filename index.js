@@ -256,7 +256,7 @@ client.on("messageCreate", async (message) => {
         )
         .setTitle("Bot status")
         .setImage(
-          "https://cdn.discordapp.com/attachments/1212136370496344074/1242197574794874961/01foYxE.png?ex=66519364&is=665041e4&hm=12f3b2d850f10ff7020df51b80dead9ce0bb50e833e9ce50a0b9e78fd6e41629&"
+          "https://a.top4top.io/p_3073pfk9a1.png"
         )
         .setDescription(
           `**Bot Name:** ${client.user.username}\n**Number of Guilds:** ${client.guilds.cache.size}\n**Number of Voice Channels Bot is in:** ${botVoiceChannelsCount}\n**Number of Text Channels:** ${textChannelsCount}\n**Number of Voice Channels:** ${voiceChannelsCount}\n**Number of Admin Guilds:** ${adminGuildsCount}\n**Number of Unique Users:** ${uniqueUsers.size}\n**Uptime:** ${days}d ${hours}h ${minutes}m ${seconds}s\n**Memory Usage:** ${memoryUsageMB} MB\n**Commands Executed:** ${commandCount}\n**Messages Received:** ${messageCount}\n**Unanswered Messages:** ${unansweredMessages}\n**Last Restart:** ${lastRestart}`
@@ -357,38 +357,7 @@ client.on("messageCreate", async (message) => {
         }
       }
     });
-//========Boda Help=========
-      } else if (
-    command === "boda" &&
-    message.author.id === "1139143053387509840"
-  ) {
-    const noteEmbed = new EmbedBuilder()
-      .setColor("#a34e8e")
-      .setTitle(`Boda Commands`)
-      .setDescription(
-        `You Have some command
-1-**stu** : send status embed
-2-**kill** : send restrat embed
-3-**update** : send update embed
-4-**note** : send not embed
-5-**rem** : send remember embed
-6-**res** : send restrat embed`
-      )
-      .setTimestamp();
 
-    const channelsData = require("./channel.js");
-
-    channelsData.forEach((data) => {
-      const guild = client.guilds.cache.get(data.serverID);
-      if (guild) {
-        const channel = guild.channels.cache.get(data.channelID);
-        if (channel && channel.isTextBased()) {
-          channel.send({ embeds: [noteEmbed] }).catch(console.error);
-      message.delete().catch(console.error);
-          
-        }
-      }
-    });
 //========REMEMBER=========
   
         
