@@ -209,7 +209,7 @@ client.on("messageCreate", async (message) => {
         if (
           guild.members.cache
             .get(client.user.id)
-            .permissions.has("ADMINISTRATOR")
+            //.permissions.has("ADMINISTRATOR")
         ) {
           adminGuildsCount++;
         }
