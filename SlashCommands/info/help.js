@@ -62,7 +62,7 @@ module.exports = {
                     new ButtonBuilder()
                         .setStyle(ButtonStyle.Link)
                         .setLabel('Quran Bot 2')
-                        .setURL(`https://discord.com/oauth2/authorize?client_id=1235243098364448871`))
+                        .setURL(`https://discord.com/oauth2/authorize?client_id=1247639763834372167`))
             
                 .addComponents(
                     new ButtonBuilder()
